@@ -1,5 +1,5 @@
 
-import {HashRouter as Router, Link, Route, Switch} from 'react-router-dom';
+import {BrowserRouter as Router, Link, Route, Switch} from 'react-router-dom';
 import './App.css';
 import Navbar from './components/navbar';
 import Footer from './components/footer';
@@ -24,7 +24,7 @@ function App() {
 
       <div className="App">
 
-          <HashRouter>
+          <BrowserRouter>
           <Router>
 
                   <Navbar/>
@@ -40,7 +40,7 @@ function App() {
 
                       <Footer/>
           </Router>
-    </HashRouter>
+    </BrowserRouter>
       </div>
 
 );
