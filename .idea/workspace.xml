@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b4e2d05-dcf6-428e-9862-8d257208b24c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/boilinglake.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/emerald_pool_dominica-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/th (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pictures/Split-Rock-Dominica.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pictures/THEME_HOTEL_BEDROOM-WITH-OUTSIDE-GARDEN_GettyImages-540130554-scaled.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pictures/background 500 300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pictures/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pictures/cscott-sporleder-dominica-stills-5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pictures/deluxe1-1-500x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pictures/hiking-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pictures/hotel-booking.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pictures/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pictures/online-booking-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pictures/online-booking-500 300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pictures/pngtree-adventure-awaits-quote-png-image_5527008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pictures/timthumb2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/services.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../untitled\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gbob12&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gbob12/Travel-12.App.git&quot;,
+    &quot;accountId&quot;: &quot;29e37a02-037e-44c5-b1a3-372c7a92a8c9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2k0GNeVtzs1Zhlg7NzZmMC82ufV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/halfr/WebstormProjects/untitled/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "npm.npm start.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\halfr\\WebstormProjects\\untitled\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\halfr\WebstormProjects\untitled\public" />
+      <recent name="C:\Users\halfr\WebstormProjects\untitled\src\Pictures" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\halfr\WebstormProjects\untitled\src\pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b4e2d05-dcf6-428e-9862-8d257208b24c" name="Changes" comment="" />
+      <created>1722413046834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722413046834</updated>
+      <workItem from="1722413049048" duration="1763000" />
+      <workItem from="1722415050178" duration="232000" />
+      <workItem from="1722415311926" duration="9751000" />
+      <workItem from="1722426265850" duration="19408000" />
+      <workItem from="1722547657119" duration="15302000" />
+      <workItem from="1722624097684" duration="1581000" />
+      <workItem from="1722627856617" duration="26804000" />
+      <workItem from="1722671996799" duration="687000" />
+      <workItem from="1722697657719" duration="4675000" />
+      <workItem from="1722703508706" duration="9769000" />
+      <workItem from="1722717323002" duration="14028000" />
+      <workItem from="1722745141738" duration="4313000" />
+      <workItem from="1722829585426" duration="3652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.tsx</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
