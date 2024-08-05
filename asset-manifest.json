@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/App2%20/static/css/main.8743f147.css",
+    "main.js": "/App2%20/static/js/main.3ce2256f.js",
+    "static/js/453.6b9eaf94.chunk.js": "/App2%20/static/js/453.6b9eaf94.chunk.js",
+    "static/media/Split-Rock-Dominica.jpg": "/App2%20/static/media/Split-Rock-Dominica.08dfa83b4b39c5026fda.jpg",
+    "static/media/online-booking-500 300.jpg": "/App2%20/static/media/online-booking-500 300.52d5e46639fd5c399b7e.jpg",
+    "static/media/deluxe1-1-500x300.jpg": "/App2%20/static/media/deluxe1-1-500x300.4b0d1bcc8da2958170fb.jpg",
+    "static/media/background 500 300.jpg": "/App2%20/static/media/background 500 300.97ebea13ebc6bb6d3a54.jpg",
+    "index.html": "/App2%20/index.html",
+    "main.8743f147.css.map": "/App2%20/static/css/main.8743f147.css.map",
+    "main.3ce2256f.js.map": "/App2%20/static/js/main.3ce2256f.js.map",
+    "453.6b9eaf94.chunk.js.map": "/App2%20/static/js/453.6b9eaf94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8743f147.css",
+    "static/js/main.3ce2256f.js"
+  ]
+}
