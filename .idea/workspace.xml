@@ -5,65 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b4e2d05-dcf6-428e-9862-8d257208b24c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/boilinglake.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/emerald_pool_dominica-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/th (2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pictures/Split-Rock-Dominica.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pictures/THEME_HOTEL_BEDROOM-WITH-OUTSIDE-GARDEN_GettyImages-540130554-scaled.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pictures/background 500 300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pictures/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pictures/cscott-sporleder-dominica-stills-5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pictures/deluxe1-1-500x300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pictures/hiking-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pictures/hotel-booking.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pictures/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pictures/online-booking-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pictures/online-booking-500 300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pictures/pngtree-adventure-awaits-quote-png-image_5527008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pictures/timthumb2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupTests.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/services.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +125,7 @@
       <workItem from="1722703508706" duration="9769000" />
       <workItem from="1722717323002" duration="14028000" />
       <workItem from="1722745141738" duration="4313000" />
-      <workItem from="1722829585426" duration="3652000" />
+      <workItem from="1722829585426" duration="5000000" />
     </task>
     <servers />
   </component>
