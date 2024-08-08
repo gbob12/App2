@@ -1,16 +1,15 @@
 
-import { BrowserRouter as Router, Link, Route, Switch} from 'react-router-dom';
+import { BrowserRouter as Router, Link, Route, Routes} from 'react-router-dom';
 import './App.css';
 import Navbar from './components/navbar';
 import Footer from './components/footer';
 
 import Contact from './pages/contact';
 import About from './pages/About';
-
-import home from './pages/home';
-import products from './pages/product';
+import  Home from './pages/home';
+import Products from './pages/product';
 import background from '../Pictures/timthumb2.jpg';
-import services from './pages/services';
+import Services from './pages/services';
 
 
 
@@ -27,14 +26,14 @@ function App() {
 
                   <Navbar/>
 
-                      <Switch>
-                          <Route path="/" exact component={home}/>
-                          <Route path="/services" exact component={services}/>
-                          <Route path="/products" exact component={products}/>
-                          <Route path="/contact" exact component={Contact}/>
-                          <Route path="/about" exact component={About}/>
+                      <Routes>
+                          <Route  path="/" element={<Home/>}/>
+                          <Route path="/services" element ={<Services/>}/>
+                          <Route path="/products" element={<Products/>}/>
+                          <Route path="/contact"  element={<Contact/>}/>
+                          <Route path="/about" element={<About/>}/>
 
-                      </Switch>
+                      </Routes>
 
                       <Footer/>
           </Router>
